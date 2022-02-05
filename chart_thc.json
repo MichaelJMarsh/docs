@@ -1,0 +1,76 @@
+[{
+        "id": 0,
+        "title": "Beginner Dose",
+        "amount": "1.0 - 2.5",
+        "targetUsers": [
+            "First-time consumers",
+            "Microdosers"
+        ],
+        "expectations": [
+            "Mild pain relief",
+            "Stress",
+            "Anxiety",
+            "Other symptoms"
+        ],
+        "references": []
+    },
+    {
+        "id": 1,
+        "title": "Small Dose",
+        "amount": "2.5 — 15",
+        "targetUsers": [
+            "Patients with persistent problems",
+            "Restless sleepers",
+            "Social butterflies"
+        ],
+        "expectations": [
+            "Stronger symptom relief",
+            "Euphoria",
+            "May impair coordination and alter perception"
+        ],
+        "references": []
+    },
+    {
+        "id": 2,
+        "title": "Moderate Dose",
+        "amount": "15 — 30",
+        "targetUsers": [
+            "Well-seasoned consumers",
+            "Medical patients with developed tolerances",
+            "Experienced consumers seeking to sustain sleep"
+        ],
+        "expectations": [
+            "Strong euphoria",
+            "Unaccustomed consumers may experience negative effects",
+            "May impair coordination and alter perception"
+        ],
+        "references": []
+    }, {
+        "id": 3,
+        "title": "Large Dose",
+        "amount": "30 — 50",
+        "targetUsers": [
+            "Customers who have poor GI absorption of cannabinoids",
+            "People with significant tolerance to THC"
+        ],
+        "expectations": [
+            "Very strong euphoria",
+            "Likely to impair coordination and alter perception"
+        ],
+        "references": []
+    }, {
+        "id": 4,
+        "title": "Experienced User Dose",
+        "amount": "50 — 100",
+        "targetUsers": [
+            "For experienced THC individuals only",
+            "Patients with cancer, inflammatory disorders, or conditions that necessitate high doses"
+        ],
+        "expectations": [
+            "Highly likely to impair coordination and alter perception",
+            "Can cause negative side effects such as rapid heart rate and nausea",
+            "May cause user perceived pain"
+        ],
+        "references": []
+    }
+]

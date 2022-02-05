@@ -1,0 +1,98 @@
+[{
+        "id": 0,
+        "title": "Light Support",
+        "amount": "10 — 15",
+        "targetUsers": [
+            "Microdosers",
+            "People looking for support to general health"
+        ],
+        "expectations": [
+            "Supports basic antioxidant, brain and nerve function",
+            "Promotes circulatory function",
+            "Helps maintain healthy skin"
+        ],
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/22670794",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5323388/"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Added Support",
+        "amount": "15 — 30",
+        "targetUsers": [
+            "Patients looking for additional support for general health",
+            "Consumers who want to boost immune system"
+        ],
+        "expectations": [
+            "Helps reduce stress",
+            "Supports mental focus",
+            "Reduce free radicals",
+            "Assists digestion regulation",
+            "Aids body`s ability to self-repair"
+        ],
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/26408170",
+            "https://pubmed.ncbi.nlm.nih.gov/25801536"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Moderate Support",
+        "amount": "30 — 50",
+        "targetUsers": [
+            "Medical patients treating various GI and anxiety disorders",
+            "People who consume too much THC and require alleviation of symptoms"
+        ],
+        "expectations": [
+            "Promotes general well-being and focus",
+            "Anxiety relief",
+            "Supports digestive balance",
+            "Reduces nausea",
+            "Lessens psychoactive effects of THC"
+        ],
+        "references": [
+            "https://www.frontiersin.org/articles/10.3389/fnins.2018.00502/full",
+            "https://www.ncbi.nlm.nih.gov/pubmed/21827451"
+        ]
+    }, {
+        "id": 3,
+        "title": "Strong Support",
+        "amount": "50 — 100",
+        "targetUsers": [
+            "Medical patients suffering from mild mental disorders",
+            "Consumers who desire increased neurological function",
+            "People who want to boost immune system"
+        ],
+        "expectations": [
+            "Supports reducing anxiety and depression",
+            "Stabilizes bodily comfort",
+            "Neuroprotection",
+            "Reduces inflammation",
+            "Increases mortality rate of cancer cells"
+        ],
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/21566064",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579246"
+        ]
+    }, {
+        "id": 4,
+        "title": "Excellent Support",
+        "amount": "100 — 200",
+        "targetUsers": [
+            "Medical patients severe pain",
+            "Consumers who desire increased neurological function",
+            "Patients who are prescribed dosage by physician"
+        ],
+        "expectations": [
+            "Facilitates cognitive, attention, and general well-being",
+            "Migraine relief",
+            "Reduces pain and muscle spasms"
+        ],
+        "references": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/22585736",
+            "https://www.epilepsybehavior.com/article/S1525-5050(18)30473-6/pdf"
+        ]
+    }
+
+]
