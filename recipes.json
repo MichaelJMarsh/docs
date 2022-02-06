@@ -13,7 +13,7 @@
             "Agave syrup": "¾ oz",
             "Sea salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2m",
         "cookTime": "2m",
@@ -45,7 +45,7 @@
             "Raw almonds": "½ cup",
             "Water, distilled": "3 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "120m",
@@ -92,7 +92,7 @@
             "Nutmeg, ground": "¼ tsp",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8m",
         "cookTime": "12m",
@@ -140,7 +140,7 @@
             "Salt": "½ tsp",
             "Powdered sugar": ""
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8h",
         "cookTime": "45m",
@@ -192,7 +192,7 @@
             "Parmesan cheese, shredded": "¼ cup"
         },
 
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "25m",
         "cookTime": "1h 50m",
@@ -232,7 +232,7 @@
             "Fresh rosemary and lemon": "slices for garnish"
         },
 
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "25m",
@@ -274,7 +274,7 @@
             "Chocolate chips": "1 cup",
             "Coarse raw sugar": "2 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "25m",
@@ -320,7 +320,7 @@
             "Pecans, chopped": "1 cup"
         },
 
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "45m",
@@ -358,7 +358,7 @@
             "Eggs": "3 large",
             "Vegetable oil": "7 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Cannabis-infused maple syrup": "1 tbsp per waffle" },
         "prepTime": "5m",
         "cookTime": "25m",
@@ -391,7 +391,7 @@
             "Bacon": "2",
             "Favorite cheese": "2 slices"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "4m",
@@ -434,7 +434,7 @@
             "Celery": "1 stalk",
             "Celery salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "6m",
         "cookTime": "0m",
@@ -477,7 +477,7 @@
             "Cinnamon, ground": "1 tsp",
             "Powdered sugar": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Pecans, chopped": "½ cup" },
         "prepTime": "20m",
         "cookTime": "55m",
@@ -520,7 +520,7 @@
             "Fresh blueberries": "2 cups",
             "Cinnamon, ground": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Whipped cream": "to taste" },
         "prepTime": "20m",
         "cookTime": "20m",
@@ -561,7 +561,7 @@
             "Baking soda": "½ cup",
             "Egg": "1"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2h 10m",
         "cookTime": "20m",
@@ -611,7 +611,7 @@
             "Salt": "1 tsp",
             "Black pepper": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "40m",
@@ -655,7 +655,7 @@
             "Chicken breasts(skinless, boneless, & cut into ½ inch pieces)": "3",
             "Hot sauce": "4 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "20m",
@@ -698,7 +698,7 @@
             "Romaine lettuce, chopped": "1 head",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "0m",
@@ -736,7 +736,7 @@
             "Cinnamon, ground": "2 pinches",
             "Nutmeg, ground": "2 pinches"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2m",
         "cookTime": "0m",
@@ -773,7 +773,7 @@
             "Onion": "½ medium",
             "Tomato": "1 small"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Cayenne peppers, diced": "4 oz" },
         "prepTime": "10m",
         "cookTime": "5m",
@@ -818,7 +818,7 @@
             "Walnuts, chopped": "1 cup",
             "Powdered sugar": "3 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "50m",
@@ -858,7 +858,7 @@
             "Salt and pepper": "to taste",
             "Coriander": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "All-purpose flour ": "½ tbsp" },
         "prepTime": "10m",
         "cookTime": "10m",
@@ -899,7 +899,7 @@
             "Baking soda": "1 tsp",
             "Salt": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "60m",
@@ -930,7 +930,7 @@
             "Cannabis, ground": "6 grams",
             "Unsalted butter": "16 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "40m",
         "cookTime": "45m",
@@ -968,7 +968,7 @@
             "Pecans or walnuts toasted, chopped": "1½ cups",
             "Vanilla extract": "1½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "20m",
@@ -1007,7 +1007,7 @@
             "Cilantro": "1 oz",
             "Ice": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "7m",
         "cookTime": "0m",
@@ -1041,7 +1041,7 @@
             "Vanilla extract": "1 tsp",
             "Powdered sugar": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "2h 30m",
@@ -1072,7 +1072,7 @@
         "ingredients": {
             "Cannabis flowers, stalks, and leaves": "16 grams"
         },
-        "ingredientsNote": [
+        "ingredientNotes": [
             "Utilize parts of the plant that would usually be tossed out to decrease cost."
         ],
         "ingredientsOptional": {},
@@ -1102,7 +1102,7 @@
             "Cannabis, ground": "¼ oz",
             "Gin": "750 mL"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -1139,7 +1139,7 @@
             "Dijon mustard": "½ tsp",
             "Sea salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "0m",
@@ -1171,7 +1171,7 @@
             "Cannabis, ground": "¼ oz",
             "Mezcal": "750 mL"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -1207,7 +1207,7 @@
             "Cannabis, ground": "6 grams",
             "Whole milk or heavy cream": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "40m",
         "cookTime": "55m",
@@ -1237,7 +1237,7 @@
             "Cannabis, ground": "6 grams",
             "Oil (vegetable or canola)": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "60m",
         "cookTime": "55m",
@@ -1266,7 +1266,7 @@
             "Peychauds Bitters": "2 dashes",
             "Water": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Lemon twist": "to taste" },
         "prepTime": "5m",
         "cookTime": "0m",
@@ -1297,7 +1297,7 @@
             "High-proof alcohol(160 + proof)": "½ cup",
             "Granulated sugar": "½ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "40m",
         "cookTime": "20m",
@@ -1335,7 +1335,7 @@
             "Vanilla extract": "½ tsp",
             "Salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "12m",
@@ -1369,7 +1369,7 @@
             "Cannabis, ground": "¼ oz",
             "Tequila": "750 mL"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -1406,7 +1406,7 @@
             "Orange bitters": "1 dash",
             "Lemon twist": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Cannabis Leaf": "1 leaf" },
         "prepTime": "4m",
         "cookTime": "0m",
@@ -1436,7 +1436,7 @@
             "Cannabis, ground": "¼ oz",
             "Vodka": "750 mL"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -1472,7 +1472,7 @@
             "Sliced bacon": "16 oz",
             "Sunflower lecithin": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "4h",
@@ -1506,7 +1506,7 @@
             "Cannabis, ground": "¼-½ oz",
             "Coconut oil": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "45m",
         "cookTime": "2h",
@@ -1539,7 +1539,7 @@
             "Buttermilk": "4 cups",
             "Salt": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "4h 30m",
         "cookTime": "30m",
@@ -1574,7 +1574,7 @@
             "Cannabis, ground": "3.5 grams",
             "Honey": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "1h 20m",
@@ -1607,7 +1607,7 @@
             "Olive oil": "4 cups",
             "Garlic or ginger": "½ oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "60m",
         "cookTime": "1h 30m",
@@ -1638,7 +1638,7 @@
             "Granulated sugar": "3 cups",
             "Vegetable glycerin": "3 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "30m",
@@ -1679,7 +1679,7 @@
             "Vanilla extract": "1 tsp",
             "Baking soda": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "45m",
@@ -1716,7 +1716,7 @@
             "Lettuce": "",
             "Burger sauce of your choice": ""
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "10m",
@@ -1757,7 +1757,7 @@
             "Almond butter": "1½ cups",
             "Vanilla extract": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "5m",
@@ -1810,7 +1810,7 @@
             "Worcestershire sauce": "½ tsp",
             "Garlic, minced": "1 clove"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "30m",
@@ -1851,7 +1851,7 @@
             "Rosemary": "to taste",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "20m",
@@ -1890,7 +1890,7 @@
             "Onion, chopped": "1 tbsp",
             "Bell pepper,chopped": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Jalapeños": "1 tbsp" },
         "prepTime": "10m",
         "cookTime": "10m",
@@ -1924,7 +1924,7 @@
             "Banana, sliced ": "½",
             "Dark chocolate chips": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "10m",
@@ -1967,7 +1967,7 @@
             "All-purpose flour": "1 tbsp",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "40m",
@@ -2008,7 +2008,7 @@
             "Baking soda": "1 tsp",
             "Salt": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "15m",
@@ -2042,7 +2042,7 @@
             "Powder sugar": "3 tbsp",
             "Pretzels": "1 bag"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "60m",
@@ -2080,7 +2080,7 @@
             "Kosher salt": "¼ tsp",
             "Cake flour, sifted": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8m",
         "cookTime": "25m",
@@ -2120,7 +2120,7 @@
             "Almonds, chopped": "1½ cups",
             "Chocolate chunks": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "1h 10m",
@@ -2164,7 +2164,7 @@
             "Evaporated milk": "¼ cup",
             "Walnuts or pecans, chopped": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "40m",
         "cookTime": "25m",
@@ -2202,7 +2202,7 @@
             "Evaporated milk": "6 oz",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "6m",
@@ -2239,7 +2239,7 @@
             "Vanilla extract": "½ tsp",
             "Cinnamon, ground ": "3 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "2m",
@@ -2286,7 +2286,7 @@
             "Powdered sugar": "¾ cup",
             "Vanilla extract": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "90m",
         "cookTime": "20m",
@@ -2339,7 +2339,7 @@
             "Blueberries, fresh": "2 cups",
             "Raspberries, fresh": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "10m",
@@ -2375,7 +2375,7 @@
             "Coconut oil": "1 tbsp",
             "Coffee, brewed": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "20m",
@@ -2409,7 +2409,7 @@
             "Vanilla extract": "1 tsp",
             "Eggs": "3"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "45m",
@@ -2450,7 +2450,7 @@
             "Egg": "1 large",
             "Canola oil(for frying)": ""
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "20m",
@@ -2492,7 +2492,7 @@
             "Powdered sugar": "½ cup",
             "Milk": "½ tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "15m",
@@ -2530,7 +2530,7 @@
             "Garlic salt": "1 dash",
             "Salt & pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "15m",
@@ -2566,7 +2566,7 @@
             "Oil (for deep frying)": "",
             "Potatoes": "32 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "40m",
@@ -2601,7 +2601,7 @@
             "Lemon juice": "1 oz",
             "Champagne or sparkling wine": "4-5 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2m",
         "cookTime": "1m",
@@ -2630,7 +2630,7 @@
             "Potatoes, peeled": "4 large",
             "Salt": "3 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "20m",
@@ -2662,7 +2662,7 @@
             "Semisweet chocolate chips": "3 cups",
             "Sweetened condensed milk": "14 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Marshmallow": "8 oz" },
         "prepTime": "5m",
         "cookTime": "5m",
@@ -2694,7 +2694,7 @@
             "Chicken": "32 oz",
             "Jerk chicken marinade": "8 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "30m",
@@ -2728,7 +2728,7 @@
             "Garlic, chopped": "7 cloves",
             "Parmesan cheese": "¾ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "5m",
@@ -2772,7 +2772,7 @@
             "Cornstarch": "1 tbsp",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Whipped cream": "to taste" },
         "prepTime": "25m",
         "cookTime": "35m",
@@ -2812,7 +2812,7 @@
             "Flax egg": "2 tbsp",
             "Black strap molasses": "FIX THIS!!!"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "20m",
@@ -2851,7 +2851,7 @@
             "Garlic": "3 cloves",
             "Salt": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {
             "Parmesan, Asiago, or Romano cheese, grated": "to taste"
         },
@@ -2896,7 +2896,7 @@
             "Golden milk mix": "1 tbsp",
             "Sea salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "0m",
@@ -2936,7 +2936,7 @@
             "Egg white": "2 large",
             "Salt": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "15m",
@@ -2972,7 +2972,7 @@
             "French fried onions": "1½ cups",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "30m",
@@ -3006,7 +3006,7 @@
             "Heat-tolerant whipped cream whipper": "34 oz",
             "Nitrous oxide chargers": "2"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "45m",
         "cookTime": "15m",
@@ -3045,7 +3045,7 @@
             "Fresh mint, capped": "4 tbsp",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "35m",
         "cookTime": "10m",
@@ -3081,7 +3081,7 @@
             "Sea salt": "¼ tbsp",
             "Black pepper, ground": "¼tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {
             "Cannabis leaves, chopped": "to taste",
             "Hot sauce": "to taste",
@@ -3131,7 +3131,7 @@
             "Avocado, sliced": "1 medium",
             "Queso fresco, crumbled": "⅓ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "15m",
@@ -3170,7 +3170,7 @@
             "Lemon juice": "2 tbsp",
             "Kosher salt and ground black pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Jalapeño pepper, minced": "1 medium" },
         "prepTime": "FIX THIS!!",
         "cookTime": "0m",
@@ -3201,7 +3201,7 @@
             "Eggs": "2",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "80m",
         "cookTime": "10m",
@@ -3238,7 +3238,7 @@
             "Sugar": "¾ cup",
             "Nutmeg": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "1h 10m",
         "cookTime": "0m",
@@ -3273,7 +3273,7 @@
             "Egg": "1",
             "Bitters": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "0m",
@@ -3311,7 +3311,7 @@
             "Parmesan cheese, grated": "¼ cup",
             "Cold water": "¼ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "15m",
@@ -3345,7 +3345,7 @@
             "Plain unflavored gelatin": "2 tbsp",
             "Sunflower lecithin": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "40m",
@@ -3380,7 +3380,7 @@
             "Filtered water": "¼ cup",
             "Orange or lemon flavor": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "25m",
@@ -3417,7 +3417,7 @@
             "Cinnamon, ground": "½ tsp",
             "Whip cream": "6 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "3m",
         "cookTime": "12m",
@@ -3453,7 +3453,7 @@
             "Water": "3 tbsp",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8m",
         "cookTime": "0m",
@@ -3489,7 +3489,7 @@
             "Sweetened condensed milk": "5 oz",
             "Chocolate syrup": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2m",
         "cookTime": "0m",
@@ -3525,7 +3525,7 @@
             "Garlic powder": "¼ tsp",
             "Red pepper flakes": "¼ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "3m",
         "cookTime": "0m",
@@ -3563,7 +3563,7 @@
             "Black pepper, ground": "½ tsp",
             "Panko": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "30m",
@@ -3605,7 +3605,7 @@
             "Sea salt": "½ tsp",
             "Peanut oil(enough to fill pot half full)": ""
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "35m",
         "cookTime": "15m",
@@ -3652,7 +3652,7 @@
             "Kosher salt": "1 tsp",
             "Black pepper, grated": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "60m",
         "cookTime": "1h 30m",
@@ -3696,7 +3696,7 @@
             "Fresh pieces of pineapple": "",
             "Pineapple juice": "1 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "45m",
         "cookTime": "5m",
@@ -3733,7 +3733,7 @@
             "Orange juice": "1",
             "Lemon": "FIX THIS!!"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "35m",
         "cookTime": "2m",
@@ -3766,7 +3766,7 @@
             "Cannabis, ground": "3-6 grams",
             "Maple syrup of choice": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "40m",
         "cookTime": "1h 30m",
@@ -3801,7 +3801,7 @@
             "Grand Marnier": "½ oz",
             "Salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "0m",
@@ -3838,7 +3838,7 @@
             "Oregano": "to taste",
             "Basil": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "30m",
@@ -3884,7 +3884,7 @@
             "Fresh mint leaves, ground": "5",
             "Lime": "1"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "2m",
         "cookTime": "0m",
@@ -3926,7 +3926,7 @@
             "Cinnamon": "1 pinch",
             "Pomegranate seeds": "1½ cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Pomegranate molasses": "2 tbsp" },
         "prepTime": "30m",
         "cookTime": "60m",
@@ -3972,7 +3972,7 @@
             "Lemon juice": "1 tbsp",
             "Salt": "1 pinch"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "0m",
@@ -4009,7 +4009,7 @@
             "Blue cheese crumbles": "½ cup",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "20m",
@@ -4048,7 +4048,7 @@
             "Vanilla extract": "1 tbsp",
             "All-purpose flour": "¼ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "60m",
@@ -4089,7 +4089,7 @@
             "Sweetened coconut, shredded": "½ cup",
             "Walnuts, chopped": "½ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "10m",
@@ -4130,7 +4130,7 @@
             "Buttermilk": "1¼ cups",
             "Heavy whipping cream": "1¾ cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "20m",
@@ -4171,7 +4171,7 @@
             "Agave": "2 tbsp",
             "Cinnamon": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "3m",
         "cookTime": "15m",
@@ -4211,7 +4211,7 @@
             "Peach filling": "",
             "Fresh peaches, chopped": "8"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {
             "Cinnamon, ground": "¼ tsp",
             "Nutmeg": "¼ tsp"
@@ -4251,7 +4251,7 @@
             "Honey": "1 tbsp",
             "Kosher salt": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "35m",
         "cookTime": "10m",
@@ -4285,7 +4285,7 @@
             "Chunky peanut butter": "1 cup",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Marshmallow": "8 oz" },
         "prepTime": "10m",
         "cookTime": "10m",
@@ -4318,7 +4318,7 @@
             "Powdered sugar, sifted": "4 tbsp",
             "Peanut butter": "½ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "10m",
@@ -4355,7 +4355,7 @@
             "Powdered sugar": "2 cups",
             "Semi-sweet chocolate chips": "12 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "10m",
@@ -4397,7 +4397,7 @@
             "Kosher salt and ground black pepper": "to taste",
             "Elbow macaroni": "16 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "35m",
@@ -4439,7 +4439,7 @@
             "Water": "1¼ cups",
             "Salt": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -4475,7 +4475,7 @@
             "Salt": "⅛ tsp",
             "Water": "2 cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "4m",
         "cookTime": "10m",
@@ -4506,7 +4506,7 @@
             "Favorite fruit filling": "3 tbsp",
             "Simple syrup": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "30m",
@@ -4540,7 +4540,7 @@
             "Orange, berry or hibiscus tea": "4 bags",
             "Lemon juice": "2 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8m",
         "cookTime": "0m",
@@ -4572,7 +4572,7 @@
             "Pepper": "1 tbsp",
             "Garlic powder": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "60m",
         "cookTime": "25m",
@@ -4618,7 +4618,7 @@
             "Salt": "½ tsp",
             "Walnut pieces": "½ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "5m",
@@ -4660,7 +4660,7 @@
             "Plain yogurt": "1¼ cup",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "25m",
@@ -4700,7 +4700,7 @@
             "Vanilla extract": "½ cup",
             "Sea salt": "¼ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {
             "Chia seeds": "to taste",
             "Coconut flakes": "to taste",
@@ -4748,7 +4748,7 @@
             "Salt": "½ tsp",
             "Powdered sugar": "3 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "90m",
@@ -4793,7 +4793,7 @@
             "Bone-in ribeye steaks": "2 steaks",
             "Kosher salt and ground black pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Cannabis fan leaves, chopped": "8 leaves" },
         "prepTime": "10h",
         "cookTime": "4h",
@@ -4827,7 +4827,7 @@
             "Vanilla whey protein powder": "1 scoop",
             "Sea salt": "garnish"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "0m",
@@ -4863,7 +4863,7 @@
             "Chicken broth": "¼ cup",
             "Salt": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "20m",
@@ -4905,7 +4905,7 @@
             "Milk": "1½ cups",
             "Vegetable oil": "⅓ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "35m",
@@ -4944,7 +4944,7 @@
             "Kosher salt and ground black pepper": "to taste",
             "Cannabis-infused or regular Ricotta cheese": "8 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "30m",
@@ -4984,7 +4984,7 @@
             "Unbaked deep pie crust": "1 (9-inch)",
             "Salt and black pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "25m",
         "cookTime": "60m",
@@ -5027,7 +5027,7 @@
             "Light brown sugar": "½ cup",
             "Vanilla extract": "2 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "10m",
         "cookTime": "15m",
@@ -5063,7 +5063,7 @@
             "Club soda": "",
             "Fresh mint sprig": "garnish"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "9h",
         "cookTime": "10m",
@@ -5097,7 +5097,7 @@
             "White sugar": "3 cups",
             "Lemon juice": "¼ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "20m",
@@ -5135,7 +5135,7 @@
             "Maple syrup": "3 tbsp",
             "Vanilla extract": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "25m",
         "cookTime": "10m",
@@ -5171,7 +5171,7 @@
             "Honey": "1½ tbsp",
             "Black pepper, ground": "¼ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "8m",
         "cookTime": "0m",
@@ -5207,7 +5207,7 @@
             "Almonds, slivered and toasted": "¼ cup",
             "4 balls burrata cheese, 4 oz each": ""
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "0m",
@@ -5248,7 +5248,7 @@
             "Light brown sugar": "½ cup",
             "Vanilla extract": "2 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "30m",
@@ -5284,7 +5284,7 @@
             "Protein powder": "1 tbsp",
             "Ice": "1 cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "0m",
@@ -5317,7 +5317,7 @@
             "Vodka": "¼ cup",
             "Fresh brewed coffee": "2½ cups"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "4m",
         "cookTime": "0m",
@@ -5349,7 +5349,7 @@
             "Toffee bits": "½ cup",
             "Kosher salt": "½ tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "25m",
         "cookTime": "10m",
@@ -5386,7 +5386,7 @@
             "Garlic powder": "1 tsp",
             "Onion powder": "1 tsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "20m",
         "cookTime": "20m",
@@ -5425,7 +5425,7 @@
             "Vanilla extract": "½ tsp",
             "Mint, chopped": "¼ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Favorite ingredients(chocolate chips, sprinkles, etc…)": "to taste" },
         "prepTime": "15m",
         "cookTime": "0m",
@@ -5463,7 +5463,7 @@
             "Salt": "¼ tsp",
             "Walnuts, chopped": "¾ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "50m",
@@ -5512,7 +5512,7 @@
             "Olive oil": "2 tsp",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {
             "Hot sauce": "to taste",
             "Scallion, chopped": "1",
@@ -5561,7 +5561,7 @@
             "Rolled oats": "¾ cup",
             "Vegan bittersweet chocolate, chopped": "4 oz"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "15m",
         "cookTime": "20m",
@@ -5599,7 +5599,7 @@
             "Raspberries": "¾ cup",
             "Blueberries": "¾ cup"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "5m",
         "cookTime": "0m",
@@ -5631,7 +5631,7 @@
             "Cannabis, ground": "¼ oz",
             "Bourbon Whiskey": "750 mL"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "48h",
         "cookTime": "0m",
@@ -5668,7 +5668,7 @@
             "Vanilla extract": "1 tsp",
             "Powdered sugar": "1 tbsp"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": {},
         "prepTime": "30m",
         "cookTime": "2h 30m",
@@ -5708,7 +5708,7 @@
             "Salt": "2 tsp",
             "Egg white, lightly beaten": "1 large"
         },
-        "ingredientsNote": [],
+        "ingredientNotes": [],
         "ingredientsOptional": { "Toasted wheat germ": "1 tbsp" },
         "prepTime": "35m",
         "cookTime": "35m",
