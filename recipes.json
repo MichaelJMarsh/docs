@@ -858,7 +858,7 @@
             "Salt and pepper": "to taste",
             "Coriander": "1 pinch"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": { "All-purpose flour ": "½ tbsp" },
         "prepTime": "10m",
         "cookTime": "10m",
@@ -1406,7 +1406,7 @@
             "Orange bitters": "1 dash",
             "Lemon twist": "to taste"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": { "Cannabis Leaf": "1 leaf" },
         "prepTime": "4m",
         "cookTime": "0m",
@@ -3926,7 +3926,7 @@
             "Cinnamon": "1 pinch",
             "Pomegranate seeds": "1½ cups"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": { "Pomegranate molasses": "2 tbsp" },
         "prepTime": "30m",
         "cookTime": "60m",
@@ -4211,7 +4211,7 @@
             "Peach filling": "",
             "Fresh peaches, chopped": "8"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": {
             "Cinnamon, ground": "¼ tsp",
             "Nutmeg": "¼ tsp"
@@ -4700,7 +4700,7 @@
             "Vanilla extract": "½ cup",
             "Sea salt": "¼ tsp"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": {
             "Chia seeds": "to taste",
             "Coconut flakes": "to taste",
@@ -5512,7 +5512,7 @@
             "Olive oil": "2 tsp",
             "Salt and pepper": "to taste"
         },
-        "ingredientsNote": [""],
+        "ingredientsNote": [],
         "ingredientsOptional": {
             "Hot sauce": "to taste",
             "Scallion, chopped": "1",
